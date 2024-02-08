@@ -3,7 +3,7 @@ author:
   name: Aditya Shriwastava
   email: adityashriwastava7@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  My poorly written personal blog!
+  AI Robotics Demystified!
 show_excerpts: false # set to true to show excerpts on the homepage
 
 minima:
